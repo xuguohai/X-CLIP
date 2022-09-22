@@ -8,8 +8,9 @@ The implementation of paper [X-CLIP: End-to-End Multi-grained Contrastive Learni
 
 X-CLIP adopts cross-grained contrastive learning and attention over similarity matrix module to filter out unnecessary information during video-text retrieval. It achieves SOTA results on MSR-VTT, MSVD, LSMDC, DiDeMo, and ActivityNet.
 
-![XCLIP](./XCLIP.png)
+<!-- ![XCLIP](./XCLIP.png) -->
 
+![image](https://user-images.githubusercontent.com/33897496/191735201-e951c434-c5aa-4646-b8f8-d594d2fad99b.png)
 
 
 ## News
